@@ -1,5 +1,7 @@
 #challenge-data-science-alura
+
 📊 Análisis de Datos - Alura Store
+
 📌 Descripción del Proyecto
 
 Este proyecto tiene como objetivo analizar el desempeño de cuatro tiendas de Alura Store para apoyar la toma de decisiones estratégicas sobre cuál tienda debería vender el Sr. Juan.
