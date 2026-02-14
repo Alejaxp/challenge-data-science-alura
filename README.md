@@ -39,9 +39,6 @@ Por lo tanto, se recomienda que el Sr. Juan considere vender dicha tienda.
 🛠 Tecnologías utilizadas
 
 Python
-
 Pandas
-
 Matplotlib
-
 Google Colab
